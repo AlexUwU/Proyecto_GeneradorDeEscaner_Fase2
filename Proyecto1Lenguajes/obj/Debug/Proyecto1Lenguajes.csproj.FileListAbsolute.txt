@@ -1,0 +1,23 @@
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\bin\Debug\Proyecto1Lenguajes.exe.config
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\bin\Debug\Proyecto1Lenguajes.exe
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\bin\Debug\Proyecto1Lenguajes.pdb
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.csprojAssemblyReference.cache
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.frmExaminar.resources
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.Properties.Resources.resources
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.csproj.GenerateResource.cache
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.csproj.CoreCompileInputs.cache
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.exe
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.pdb
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.frmMostrarTabla.resources
+E:\Luis Farfan\Desktop\Trabajos\URL\Lenguajes formales y autómatas\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.frmProceso.resources
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\bin\Debug\Proyecto1Lenguajes.exe.config
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\bin\Debug\Proyecto1Lenguajes.exe
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\bin\Debug\Proyecto1Lenguajes.pdb
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.csprojAssemblyReference.cache
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.frmExaminar.resources
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.frmMostrarTabla.resources
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.frmProceso.resources
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.Properties.Resources.resources
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.csproj.GenerateResource.cache
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.exe
+C:\Users\alexa\Downloads\Proyecto1Lenguajes\Proyecto1Lenguajes\Proyecto1Lenguajes\obj\Debug\Proyecto1Lenguajes.pdb
